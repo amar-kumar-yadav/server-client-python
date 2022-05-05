@@ -37,6 +37,7 @@ class Permission:
         ViewUnderlyingData = "ViewUnderlyingData"
         WebAuthoring = "WebAuthoring"
         Write = "Write"
+        Move = "Move"
 
     class Resource:
         Workbook = "workbook"
